@@ -1,4 +1,7 @@
 {
-  "players": {},
+  "players": {
+    "Stefano": { "name": "Stefano", "rating": 8000, "kFactor": 270, "provisional": false, "matchesPlayed": 0 },
+    "Valeria": { "name": "Valeria", "rating": 8000, "kFactor": 270, "provisional": false, "matchesPlayed": 0 }
+  },
   "matches": []
 }
