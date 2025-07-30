@@ -2,10 +2,10 @@
   "players": {
     "Stefano": {
       "name": "Stefano",
-      "rating": 8000,
+      "rating": 8000.047213085302,
       "kFactor": 270,
       "provisional": false,
-      "matchesPlayed": 0
+      "matchesPlayed": 1
     },
     "Valeria": {
       "name": "Valeria",
@@ -15,11 +15,22 @@
       "matchesPlayed": 0
     },
     "pippo": {
-      "rating": 1500,
+      "rating": 1499.9527869146975,
       "kFactor": 270,
-      "matchesPlayed": 0,
+      "matchesPlayed": 1,
       "provisional": false
     }
   },
-  "matches": []
+  "matches": [
+    {
+      "playerA": "Stefano",
+      "playerB": "pippo",
+      "winner": "Stefano",
+      "weight": 1,
+      "eventType": "Campionato a Squadre",
+      "timestamp": "2025-07-30T00:15:51.656Z",
+      "deltaA": 0.04721308530253099,
+      "deltaB": -0.04721308530253099
+    }
+  ]
 }
