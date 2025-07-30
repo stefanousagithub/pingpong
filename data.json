@@ -1,7 +1,25 @@
 {
   "players": {
-    "Stefano": { "name": "Stefano", "rating": 8000, "kFactor": 270, "provisional": false, "matchesPlayed": 0 },
-    "Valeria": { "name": "Valeria", "rating": 8000, "kFactor": 270, "provisional": false, "matchesPlayed": 0 }
+    "Stefano": {
+      "name": "Stefano",
+      "rating": 8000,
+      "kFactor": 270,
+      "provisional": false,
+      "matchesPlayed": 0
+    },
+    "Valeria": {
+      "name": "Valeria",
+      "rating": 8000,
+      "kFactor": 270,
+      "provisional": false,
+      "matchesPlayed": 0
+    },
+    "pippo": {
+      "rating": 1500,
+      "kFactor": 270,
+      "matchesPlayed": 0,
+      "provisional": false
+    }
   },
   "matches": []
 }
